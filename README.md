@@ -15,50 +15,29 @@
 
 ## 🔧 Технологии и инструменты
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" width="60" height="60"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/django.png" alt="Django" width="60" height="60"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI" width="60" height="60"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/postgreesql.png" alt="PostgreSQL" width="60" height="60"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" width="60" height="60"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="60" height="60"/>
-  </a>
-  <a href="https://github.com/aiogram/aiogram" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/telegram-app.png" alt="Aiogram" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="60" height="60"/>
-  </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/database.png" alt="SQLAlchemy" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="MySQL" width="60" height="60"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/redis.png" alt="Redis" width="60" height="60"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/selenium-test-automation.png" alt="Selenium" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/linux--v1.png" alt="Linux" width="60" height="60"/>
-  </a>
-</p>
+<p align="left">  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+    <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/50/000000/flask.png"/></a>
+    <a href="https://fastapi.tiangolo" target="blank"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="50"/></a>
+    <a href="https://docs.aiohttp.org/en/stable/" target="_blank"> <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" height='40px', width="40px"/></a>
+    <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/></a>
+    <a href="https://docs.aiogram.dev/en/latest/" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/></a>
+    <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" width="50"/></a>
+     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/></a>
+    <a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+    <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px', width="40px"/></a>
+    <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" height='45px', width="45px"/></a>
+    <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/></a>
+    <a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
+    <a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a> 
+    <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
+    <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a> </p>
+<br/>
 
 ## 📊 Статистика GitHub
 
@@ -67,16 +46,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqodir2287&layout=compact&theme=radical" alt="Языки, используемые в репозиториях"/>
 </p>
 
+
 ## 📫 Контакты
 
 - Email: [kkadyr039@gmail.com](mailto:kkadyr039@gmail.com)
 - Instagram: [Instagram](https://www.instagram.com/abduqodirov634/)
 - LinkedIn: [Abduqodir Abduqodirov](https://www.linkedin.com/in/abduqodir-abduqodirov-4b38662b9/)
 
+
+
 ## 🌟 Репозитории на которые стоит обратить внимание
 
-- [Days Counter](https://github.com/abduqodir2287/Days_counter) - Приложение для отслеживания количества дней.
+- [Task Manager](https://github.com/abduqodir2287/TaskManager) - Приложение для управления задачами.
 - [Quiz Project](https://github.com/abduqodir2287/Quiz_project) - Проект с викторинами для обучения и развлечения.
+
 
 ## 🌐 Мои проекты
 
@@ -84,6 +67,7 @@
 - Телеграм боты:
   - [Wiki in Uzbek](https://t.me/Wiki_in_Uzbek_language_bot)
   - [IT Park](https://t.me/ITPark2287_bot)
+  - [Instagram downloader](https://t.me/Insta_Saver007_bot)
 
 ## 🏆 GitHub Streak
 
