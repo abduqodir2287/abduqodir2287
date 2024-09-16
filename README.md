@@ -25,7 +25,7 @@
     <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px', width="40px"/></a>
     <a href="https://docs.aiogram.dev/en/latest/" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px', width="40px"/></a>
     <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" width="50"/></a>
-     <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/></a>
+    <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px', width="60px"/></a>
     <a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
     <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px', width="40px"/></a>
     <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
@@ -57,7 +57,9 @@
 
 ## 🌟 Репозитории на которые стоит обратить внимание
 
-- [Task Manager](https://github.com/abduqodir2287/TaskManager) - Приложение для управления задачами.
+- [Medical registry](https://github.com/abduqodir2287/MedRegistry) - Приложение для управления Диспансерами.
+- [VK to Telegram](https://github.com/abduqodir2287/VktoTelegram) - Автоматически перенаправляет сообщения и медиафайлы из ВКонтакте в Telegram.
+- [Task Manager](https://github.com/abduqodir2287/TaskManager) - Приложение для управления Задачами.
 - [Quiz Project](https://github.com/abduqodir2287/Quiz_project) - Проект с викторинами для обучения и развлечения.
 
 
@@ -65,9 +67,10 @@
 
 - [Мой сайт](https://infinite-dawn-49380-1e17c4e76834.herokuapp.com) - Персональный сайт, сделанный мной.
 - Телеграм боты:
+  - [VK to Telegram](https://t.me/AbduqodirVk_bot)
   - [Wiki in Uzbek](https://t.me/Wiki_in_Uzbek_language_bot)
   - [IT Park](https://t.me/ITPark2287_bot)
-  - [Instagram downloader](https://t.me/Insta_Saver007_bot)
+  
 
 ## 🏆 GitHub Streak
 
