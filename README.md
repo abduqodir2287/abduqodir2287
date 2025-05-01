@@ -10,8 +10,8 @@
 - 🌱 Сейчас изучаю FastAPI и углубляюсь в принципы разработки масштабируемых веб-приложений.
 - 💬 С удовольствием отвечу на вопросы о Python, Postgres, FastAPI, Docker и других технологиях.
 - 📫 Можете связаться со мной по электронной почте: [kkadyr039@gmail.com](mailto:kkadyr039@gmail.com).
-- 📸 Подписывайтесь на мой Instagram: [Instagram](https://www.instagram.com/abduqodirov634/).
-- Посетите мой профиль на LinkedIn: [Abduqodir Abduqodirov](https://www.linkedin.com/in/abduqodir-abduqodirov-4b38662b9/).
+- 📸 Подписывайтесь на мой Instagram: [Instagram](https://www.instagram.com/abduqodirov634).
+- Посетите мой профиль на LinkedIn: [Abduqodir Abduqodirov](https://www.linkedin.com/in/abduqodir-abduqodirov-4b38662b9).
 
 ## 🔧 Технологии и инструменты
 
@@ -68,7 +68,6 @@
 
 ## 🌐 Мои проекты
 
-- [Мой сайт](https://infinite-dawn-49380-1e17c4e76834.herokuapp.com) - Персональный сайт, сделанный мной.
 - Телеграм боты:
   - [VK to Telegram](https://t.me/AbduqodirVk_bot)
   - [Wiki in Uzbek](https://t.me/Wiki_in_Uzbek_language_bot)
