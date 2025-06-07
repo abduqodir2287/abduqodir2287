@@ -4,7 +4,7 @@
 
 ## О себе
 
-Привет! Я backend разработчик на Python, специализируюсь на веб-разработке. В настоящее время я активно изучаю различные технологии для улучшения своих навыков и создания мощных веб-приложений. В основном я работаю с Python, FastAPI, Postgres и другими современными технологиями.
+Привет! Я backend разработчик на Python, специализируюсь на веб-разработке. В настоящее время я активно изучаю различные технологии для улучшения своих навыков и создания мощных веб-приложений. В основном я работаю с Python, FastAPI, Postgres, Docker и другими современными технологиями.
 
 - 🔭 В настоящее время работаю над разработкой сайта с использованием FastAPI.
 - 🌱 Сейчас изучаю FastAPI и углубляюсь в принципы разработки масштабируемых веб-приложений.
@@ -30,7 +30,8 @@
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
     <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px' width="40px"/></a>
     <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" height='45px' width="45px"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+    <a href="https://www.linuxfoundation.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="45px" width="45px"/></a>
     <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/></a>
     <a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -60,9 +61,9 @@
 
 ## 🌟 Репозитории на которые стоит обратить внимание
 
-- [Medical registry](https://github.com/abduqodir2287/MedRegistry) - Приложение для управления Диспансерами.
-- [VK to Telegram](https://github.com/abduqodir2287/VktoTelegram) - Автоматически перенаправляет сообщения и медиафайлы из ВКонтакте в Telegram.
 - [MyCLassApi](https://github.com/abduqodir2287/MyClassApi) - Приложение для управления классами.
+- [VK to Telegram](https://github.com/abduqodir2287/VktoTelegram) - Автоматически перенаправляет сообщения и медиафайлы из ВКонтакте в Telegram.
+- [Medical registry](https://github.com/abduqodir2287/MedRegistry) - Приложение для управления Диспансерами.
 - [Quiz Project](https://github.com/abduqodir2287/Quiz_project) - Проект с викторинами для обучения и развлечения.
 
 
