@@ -84,7 +84,7 @@
   
 
 ## 🏆 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abduqodir2287&theme=radical" alt="GitHub Streak"/>
-</p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=abduqodir2287&theme=radical" alt="GitHub Streak"/>
+  </p>
