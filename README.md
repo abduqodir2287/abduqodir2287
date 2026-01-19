@@ -2,89 +2,123 @@
 
 ![Количество просмотров профиля](https://komarev.com/ghpvc/?username=abduqodir2287&color=blueviolet)
 
-## О себе
+## 👨‍💻 О себе
 
-Я — backend-разработчик на **Python**, специализируюсь на создании масштабируемых **RESTful API** и веб-приложений. Основной стек — **Django**, **Django REST Framework**, **PostgreSQL**, **Docker**, **JWT**, а также **FastAPI** для асинхронных сервисов.
+Я backend-разработчик, специализируюсь на создании масштабируемых API и веб-приложений. Работаю с современными технологиями и фреймворками для построения надежных решений.
 
 ---
 
-### 🛠️ Стек и навыки
+## 🛠️ Технологии и навыки
 
-- 🌍 **Django + DRF** — разработка API с авторизацией по JWT, ролями, ограничением прав доступа, сериализацией, кастомными permissions и action'ами.
-- 🧪 **Тестирование** — написание unit и API тестов с использованием `pytest` + `pytest-django`.
-- 🐳 **Docker / Docker Compose** — упаковка проектов в контейнеры, конфигурация и запуск в изолированной среде.
-- 🔐 **JWT + OAuth2** — безопасная авторизация и аутентификация.
-- ⚙️ **Nginx** — настройка reverse proxy, работа с медиафайлами, настройка HTTPS.
-- 💾 **PostgreSQL** — опыт написания SQL-запросов, миграции, работа с БД через ORM.
-- ⚡ **Celery + Redis** — фоновая обработка задач (email, уведомления и др.).
-- 📦 **FastAPI** — создание легковесных и быстрых микросервисов.
-- 🧪 **Postman** — ручное тестирование API.
-- 🌐 **Git + GitHub** — командная разработка, пул-реквесты, CI/CD.
+### Backend разработка
+- **Python**: Django, Django REST Framework, FastAPI
+- **Node.js**: NestJS, Express.js
+- **TypeScript**: статическая типизация для надежного кода
 
-- 📫 Можете связаться со мной по электронной почте: [kkadyr039@gmail.com](mailto:kkadyr039@gmail.com).
+### Базы данных
+- **PostgreSQL** — проектирование схем, оптимизация запросов, миграции
+- **MySQL** — реляционные БД, транзакции
+- **MongoDB** — NoSQL решения для гибких структур данных
+- **Redis** — кэширование и хранение сессий
 
-## 🔧 Технологии и инструменты
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
-<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-<a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height='50px' width="60px"/></a>
-<a href="https://fastapi.tiangolo.com" target="blank"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="50"/></a>
-<a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1066203?s=200&v=4" height='40px' width="40px"/></a>
-<a href="https://docs.aiogram.dev/en/latest/" target="_blank"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height='40px' width="40px"/></a>
-<a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" width="50"/></a>
-<a href="https://docs.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png"/></a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
-<a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px' width="40px"/></a>
-<a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+### Инфраструктура и DevOps
+- **Docker & Docker Compose** — контейнеризация приложений
+- **Nginx** — reverse proxy, балансировка нагрузки
+- **Kubernetes** — оркестрация контейнеров
+- **Linux/Ubuntu** — системное администрирование
+
+### Асинхронная обработка
+- **Celery** — фоновые задачи и очереди
+- **RabbitMQ** — брокер сообщений
+
+### Безопасность
+- **JWT** — токен-based аутентификация
+- **OAuth2** — авторизация через сторонние сервисы
+
+### Автоматизация и боты
+- **Aiogram** — Telegram боты
+- **Selenium** — веб-автоматизация
+
+### Инструменты разработки
+- **Git & GitHub** — контроль версий, CI/CD
+- **Postman** — тестирование API
+- **Pytest** — unit и интеграционные тесты
+- **Alembic** — миграции баз данных
+
+---
+
+## 🔧 Технологии
+
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="48" height="48" alt="NestJS"/></a>
+<a href="https://devdocs.io/javascript/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+<a href="https://docs.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org//media/img/about/press/elephant.png" height="48" width="48" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
-<a href="https://www.linuxfoundation.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="45px" width="45px"/></a>
-<a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/></a>
-<a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
-<a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="https://www.rabbitmq.com/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48"/></a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a> 
-<a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-<a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/></a>
+<a href="https://docs.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ"/></a>
+<a href="https://docs.celeryq.dev/" target="_blank"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="48" height="48" alt="Celery"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/></a>
 </p>
-<br/>
+
+---
 
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduqodir2287&show_icons=true&theme=radical" alt="Статистика GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqodir2287&layout=compact&theme=radical" alt="Языки, используемые в репозиториях"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abduqodir2287&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqodir2287&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/abduqodir2287">
+    <img src="https://streak-stats.demolab.com?user=abduqodir2287&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
-## 📫 Контакты
+---
 
-- Email: [kkadyr039@gmail.com](mailto:kkadyr039@gmail.com)
-- Instagram: [Instagram](https://www.instagram.com/abduqodirov634)
-- LinkedIn: [Abduqodir Abduqodirov](https://www.linkedin.com/in/abduqodir-abduqodirov-4b38662b9)
-- Telegram: [Abduqodirov](https://t.me/Abduqodir2287)
+## 🌟 Избранные проекты
 
+### API и Backend
+- **[BooksApi](https://github.com/abduqodir2287/BooksApi)** — REST API для управления библиотекой книг с JWT-аутентификацией, ролями, отзывами, системой избранного и кэширование через Redis
+- **[MyClassApi](https://github.com/abduqodir2287/MyClassApi)** — Приложение для управления учебными классами
+- **[Medical Registry](https://github.com/abduqodir2287/MedRegistry)** — Система управления медицинскими диспансерами
 
-## 🌟 Репозитории на которые стоит обратить внимание
+### Автоматизация и боты
+- **[VK to Telegram](https://github.com/abduqodir2287/VktoTelegram)** — Автоматический мост между ВКонтакте и Telegram для пересылки сообщений и медиафайлов
+- **[Quiz Project](https://github.com/abduqodir2287/Quiz_project)** — Интерактивная платформа с викторинами
 
-- [BooksApi](https://github.com/abduqodir2287/BooksApi) — REST API для управления книгами, с поддержкой JWT-аутентификации, ролей, отзывов, избранного, загрузки обложек и кэширования через Redis.
-- [MyCLassApi](https://github.com/abduqodir2287/MyClassApi) - Приложение для управления классами.
-- [VK to Telegram](https://github.com/abduqodir2287/VktoTelegram) - Автоматически перенаправляет сообщения и медиафайлы из ВКонтакте в Telegram.
-- [Medical registry](https://github.com/abduqodir2287/MedRegistry) - Приложение для управления Диспансерами.
-- [Quiz Project](https://github.com/abduqodir2287/Quiz_project) - Проект с викторинами для обучения и развлечения.
+### Telegram боты
+- **[VK to Telegram Bot](https://t.me/AbduqodirVk_bot)** — Пересылка сообщений из VK
+- **[Wiki in Uzbek](https://t.me/Wiki_in_Uzbek_language_bot)** — Википедия на узбекском языке
+- **[IT Park Bot](https://t.me/ITPark2287_bot)** — Информационный бот
 
+---
 
-## 🌐 Мои проекты
+## 📫 Связаться со мной
 
-- Телеграм боты:
-  - [VK to Telegram](https://t.me/AbduqodirVk_bot)
-  - [Wiki in Uzbek](https://t.me/Wiki_in_Uzbek_language_bot)
-  - [IT Park](https://t.me/ITPark2287_bot)
-  
+<p align="left">
+<a href="mailto:kkadyr039@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/Abduqodir2287"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://www.linkedin.com/in/abduqodir-abduqodirov-4b38662b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/abduqodirov634"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-## 🏆 GitHub Streak
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abduqodir2287&theme=radical" alt="GitHub Streak"/>
-  </p>
+---
+
+<p align="center">
+  <i>Открыт к новым проектам и сотрудничеству! 🚀</i>
+</p>
