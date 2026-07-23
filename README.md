@@ -1,157 +1,134 @@
 <div align="center">
 
-# Привет, я Abduqodir! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Abduqodir+Abduqodirov;Fullstack+Developer;NestJS+%C2%B7+FastAPI+%C2%B7+Next.js" alt="Abduqodir Abduqodirov" />
 
-![Количество просмотров профиля](https://komarev.com/ghpvc/?username=abduqodir2287&color=blueviolet&style=flat-square)
+📍 Ташкент, Узбекистан
 
-### 🚀 Backend разработчик из Узбекистана
-
-Создаю масштабируемые API, веб-приложения и красивые интерфейсы.  
-Открыт к новым проектам и сотрудничеству!
+<br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkadyr039@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abduqodir2287)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abduqodir-abduqodirov-4b38662b9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abduqodirov634)
+
+![Profile views](https://komarev.com/ghpvc/?username=abduqodir2287&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 О себе
+## О себе
 
-- 🔧 Специализируюсь на **Backend** разработке: масштабируемые API, микросервисы, баз данных
-- 🎨 Также занимаюсь **Frontend**: верстка, адаптивный дизайн, лендинги
-- 🐳 Люблю **DevOps**: контейнеризация, оркестрация, автоматизация деплоя
-- 🤖 Пишу **Telegram-ботов** и инструменты автоматизации
-- 📚 Постоянно учусь и слежу за новыми технологиями
+Начинал с бэкенда, сейчас беру проекты целиком — вместе с фронтом и деплоем.
+Работаю в основном с внутренними системами компаний: CRM, магазины,
+аналитика звонков.
 
----
+```yaml
+основное:  NestJS · FastAPI · Next.js · PostgreSQL
+делаю:     API · фронт · деплой · интеграции
+учу:       Go · системный дизайн · базы данных вглубь
+```
 
-## 🛠️ Технологии и навыки
-
-### ⚙️ Backend разработка
-<p>
-  <img src="https://img.icons8.com/color/48/python.png" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/django.png" title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="background:#009688;border-radius:8px;padding:2px"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://nestjs.com/img/logo-small.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-</p>
-
-**Python** · Django · Django REST Framework · FastAPI  
-**Node.js** · NestJS · Express.js · TypeScript
+- 🔧 API на **NestJS** и **FastAPI**
+- 🎨 Фронт на **Next.js / React**
+- 🐳 Деплой в **Docker** на VPS — nginx, SSL, всё руками
+- 🔌 Интеграции: платёжки, вебхуки, Telegram-боты
 
 ---
 
-### 🎨 Frontend разработка
-<p>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma" alt="Figma" width="40" height="40"/>
-</p>
-
-**HTML5** · **CSS3** · **JavaScript** · **TypeScript** · **React** · **Next.js** · Адаптивная верстка · SSR/SSG
-
----
-
-### 🗄️ Базы данных
-<p>
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/redis.png" title="Redis" alt="Redis" width="40" height="40"/>
-</p>
-
-**PostgreSQL** · MySQL · MongoDB · Redis
-
----
-
-### 🐳 DevOps & Инфраструктура
-<p>
-  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/nginx.png" title="Nginx" alt="Nginx" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/linux.png" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/ubuntu.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-</p>
-
-**Docker** & Docker Compose · Nginx · Linux/Ubuntu
-
----
-
-### ⚡ Асинхронность & Сообщения
-<p>
-  <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" title="Celery" alt="Celery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Kafka" alt="Kafka" width="40" height="40"/>
-</p>
-
-**Kafka** · RabbitMQ · Celery
-
----
-
-### 🔐 Безопасность
-**JWT** · OAuth2
-
----
-
-### 🧰 Инструменты
-<p>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/48/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
-</p>
-
-**Git** & GitHub · Postman · Pytest
-
----
-
-## 📊 Статистика GitHub
+## Стек
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduqodir2287&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqodir2287&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,express,python,fastapi,django&theme=dark" alt="Backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css,js&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,nginx,linux,git&theme=dark" alt="Infra" />
+
 </div>
 
+<br/>
+
+| | |
+|---|---|
+| **Backend** | TypeScript · NestJS · Node.js · Express · Python · FastAPI · Django · DRF |
+| **Frontend** | React · Next.js · TypeScript · Tailwind · MUI · Zustand · React Query |
+| **Базы данных** | PostgreSQL · MySQL · Redis · MongoDB · DuckDB |
+| **Очереди** | Kafka · RabbitMQ · BullMQ · Celery |
+| **Инфра** | Docker · Docker Compose · Nginx · Linux · VPS · Certbot |
+| **Интеграции** | Payme · Click · Telegram Bot API · Firebase FCM · Asterisk |
+| **AI / Audio** | Whisper · LLM · обработка аудио |
+| **Прочее** | JWT · OAuth2 · Git · Postman · Pytest · Jest |
+
+---
+
+## Проекты
+
+### Коммерческие
+
+> Код закрыт — внутренние системы компаний.
+
+| Проект | Стек |
+|---|---|
+| 🎧 **Аудиоаналитика звонков** | `NestJS` `PostgreSQL` `Redis` `Whisper` |
+| 👥 **CRM-система** | `NestJS` `Next.js` `PostgreSQL` `Docker` |
+| 🛒 **Интернет-магазин** | `NestJS` `PostgreSQL` `Redis` |
+| 📞 **Аналитика телефонии** | `FastAPI` `DuckDB` `MySQL` `Next.js` |
+
+### Открытые
+
+| Проект | Описание | Стек |
+|---|---|---|
+| 🏥 **[MedRegistry](https://github.com/abduqodir2287/MedRegistry)** | Управление медицинскими диспансерами | `Python` `PostgreSQL` |
+| 🎓 **[MyClassApi](https://github.com/abduqodir2287/MyClassApi)** | API для учебных классов | `Django REST` |
+| 🔄 **[VK to Telegram](https://github.com/abduqodir2287/VktoTelegram)** | Мост ВКонтакте → Telegram с медиа | `Aiogram` `Python` |
+| 💊 **[Trafalgar Landing](https://github.com/abduqodir2287/Trafalgar-landing)** | Адаптивный медицинский лендинг | `Next.js` `TypeScript` |
+
+### Боты
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abduqodir2287&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+[![VK Bot](https://img.shields.io/badge/@AbduqodirVk__bot-пересылка_из_VK-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AbduqodirVk_bot)
+[![Wiki Bot](https://img.shields.io/badge/@Wiki__in__Uzbek-Википедия_на_узбекском-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Wiki_in_Uzbek_language_bot)
+[![IT Park Bot](https://img.shields.io/badge/@ITPark2287__bot-информационный_бот-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ITPark2287_bot)
+
 </div>
 
 ---
 
-## 🌟 Избранные проекты
+## GitHub
 
-### 🖥️ Frontend
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| **[Trafalgar Landing](https://github.com/abduqodir2287/Trafalgar-landing)** | Адаптивный медицинский лендинг с современным UI | Next.js · TypeScript · CSS3 |
+<div align="center">
 
-### 🔌 API & Backend
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| **[MyClassApi](https://github.com/abduqodir2287/MyClassApi)** | Управление учебными классами | Django REST Framework |
-| **[BooksApi](https://github.com/abduqodir2287/BooksApi)** | REST API для библиотеки: JWT, роли, отзывы, избранное, Redis-кэш | FastAPI · PostgreSQL · Redis |
-| **[Medical Registry](https://github.com/abduqodir2287/MedRegistry)** | Система управления медицинскими диспансерами | Python · PostgreSQL |
+<a href="https://github.com/abduqodir2287">
+  <img src="https://github-readme-stats.vercel.app/api?username=abduqodir2287&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/abduqodir2287">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduqodir2287&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+</a>
 
-### 🤖 Автоматизация & Боты
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| **[VK to Telegram](https://github.com/abduqodir2287/VktoTelegram)** | Мост ВКонтакте → Telegram: сообщения и медиафайлы | Aiogram · Python |
-| **[Quiz Project](https://github.com/abduqodir2287/Quiz_project)** | Интерактивная платформа с викторинами | Python |
+<br/>
 
-### 📱 Telegram боты
-| Бот | Описание |
-|-----|----------|
-| **[@AbduqodirVk_bot](https://t.me/AbduqodirVk_bot)** | Пересылка сообщений из VK |
-| **[@Wiki_in_Uzbek_language_bot](https://t.me/Wiki_in_Uzbek_language_bot)** | Википедия на узбекском языке |
-| **[@ITPark2287_bot](https://t.me/ITPark2287_bot)** | Информационный бот IT Park |
+<a href="https://github.com/abduqodir2287">
+  <img src="https://streak-stats.demolab.com?user=abduqodir2287&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduqodir2287&theme=tokyonight" width="100%" alt="Profile Summary" />
+
+</div>
 
 ---
 
 <div align="center">
-  <i>💡 Всегда готов к интересным задачам и новым коллаборациям!</i>
+
+![Узбекский](https://img.shields.io/badge/Узбекский-родной-8B5CF6?style=flat-square)
+![Русский](https://img.shields.io/badge/Русский-свободно-8B5CF6?style=flat-square)
+![English](https://img.shields.io/badge/English-технический-8B5CF6?style=flat-square)
+
+<br/>
+
+Пишите, если есть интересная задача 👋
+
 </div>
